@@ -1,0 +1,5 @@
+-U Pillow 7.1.2
+unilm/layoutlm
+./transformers
+python-doctr[torch]
+-U scikit-learn
